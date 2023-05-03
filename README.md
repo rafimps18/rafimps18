@@ -3,7 +3,7 @@
 I'm Rafael Impas, a CS student at Batangas State University. 
 
 - 🔭 I’m currently working on a <b>product inventory management system</b>.
-- 🌱 I’m currently studying: <b>Javascript</b> and <b>PHP</b>.
+- 🌱 I’m currently studying: <b>Javascript</b>, <b>React</b>, and <b>PHP</b>.
 
 <h3>🛠 Languages and Tools :</h3>
 
